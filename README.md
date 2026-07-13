@@ -17,19 +17,26 @@
 
 <br>
 
-<h1 align="center"> 📊 GitHub Stats </h1>
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
+
+<h1 align="center"> 📊 GitHub Stats </h1>
 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=pratikshinde-55&theme=tokyonight&hide_border=true" width="65%" />
 </p>
 
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 <div align="center">
 
+![snake gif](https://raw.githubusercontent.com/pratikshinde-55/pratikshinde-55/output/github-contribution-grid-snake.svg)
+
+
 Thanks for stopping by — feel free to explore my repos or reach out!
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
+
 
 
 </div>
