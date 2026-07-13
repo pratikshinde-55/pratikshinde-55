@@ -17,10 +17,19 @@
 
 <br>
 
+<h1 align="center"> 📊 GitHub Stats </h1>
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pratikshinde-55&theme=tokyonight&hide_border=true" width="65%" />
+</p>
 
 
 <div align="center">
 
 Thanks for stopping by — feel free to explore my repos or reach out!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
+
 
 </div>
