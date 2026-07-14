@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pratikshinde-55&theme=tokyonight&hide_border=true" width="65%" />
+  <img src="https://streak-stats.demolab.com/?user=pratikshinde-55&theme=tokyonight&hide_border=true" width="69%" />
 </p>
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
