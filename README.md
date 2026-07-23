@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi there, I'm Pratik 👋
- 
+   
 ### Data Science Enthusiast · Exploring machine learning, data engineering, and analytics 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=460&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Turning+Data+into+Insights;Always+learning+something+new)](https://git.io/typing-svg)
